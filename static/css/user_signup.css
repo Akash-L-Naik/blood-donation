@@ -1,0 +1,29 @@
+.red{
+    /* background-color: #EA5455; */
+    background-color: rgb(196, 15, 15);
+    color: white;
+    display: flex;
+    
+}
+.nav1{
+    font-size: 2.5rem;
+    /* color: beige; */
+    color: white;
+    text-decoration: none;
+    
+}
+.signup_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    /* margin : 30px; */
+    margin-left: 330px;
+    max-width: 900px;
+    border: 2px solid black;
+}
+/* .signup_form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
