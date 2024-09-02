@@ -3,10 +3,7 @@
 - Group 6
 # Blood_Donation_Management_System
 - Contributers:
-Hritika Gautam      - 200001029
-Mitika Bhadada      - 200001046
-Pradeep Reddy       - 200001005
-Chaitanya Dhanorkar - 200001021
+AKASH L NAIK.       8217562475
 
 The **iDonor** is a **Blood_Donation_Management_System**  designed to help the donors to donate blood to their nearest blood banks and the people who need blood to receive required blood group from the nearby blood banks and active donors.
 This website has feature like:
